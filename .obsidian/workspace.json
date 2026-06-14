@@ -15,7 +15,7 @@
               "state": {
                 "file": "数据库之类的/数据库作业之类的东西.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "数据库作业之类的东西"
