@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agent 八股/agent八股.md",
+                "file": "agent 八股/RAG面试总结.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "agent八股"
+              "title": "RAG面试总结"
             }
           }
         ]
@@ -187,7 +187,7 @@
   "active": "d85e9aa1c96edeae",
   "lastOpenFiles": [
     "数据库之类的/数据库作业之类的东西.md",
-    "agent 八股/agent八股.md",
+    "agent 八股/RAG面试总结.md",
     "agent 八股",
     "test/test.md",
     "数据库之类的",
