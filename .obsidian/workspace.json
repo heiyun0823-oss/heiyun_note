@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库之类的/数据库作业之类的东西.md",
+                "file": "agent 八股/agent八股.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "数据库作业之类的东西"
+              "title": "agent八股"
             }
           }
         ]
@@ -186,8 +186,10 @@
   },
   "active": "d85e9aa1c96edeae",
   "lastOpenFiles": [
-    "test/test.md",
     "数据库之类的/数据库作业之类的东西.md",
+    "agent 八股/agent八股.md",
+    "agent 八股",
+    "test/test.md",
     "数据库之类的",
     "gitignore",
     "gitignore.txt",
