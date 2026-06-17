@@ -20,3 +20,4 @@ chunking策略
 按文档本身的结果后进行切分 这个算是比较好的吧
 
 
+parent-child chunk: 召回和上下文折中
